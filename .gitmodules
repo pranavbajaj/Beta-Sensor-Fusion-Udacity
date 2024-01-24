@@ -1,3 +1,12 @@
 [submodule "2D-Image-Feature-Tracking"]
 	path = 2D-Image-Feature-Tracking
 	url = https://github.com/pranavbajaj/2D-Image-Feature-Tracking.git
+[submodule "3D-Object-Tracking"]
+	path = 3D-Object-Tracking
+	url = https://github.com/pranavbajaj/3D-Object-Tracking.git
+[submodule "Unscented-Kalman-Filter"]
+	path = Unscented-Kalman-Filter
+	url = https://github.com/pranavbajaj/Unscented-Kalman-Filter.git
+[submodule "Lidar-Obstacle-Detection"]
+	path = Lidar-Obstacle-Detection
+	url = https://github.com/pranavbajaj/Lidar-Obstacle-Detection.git
