@@ -1,0 +1,3 @@
+[submodule "2D-Image-Feature-Tracking"]
+	path = 2D-Image-Feature-Tracking
+	url = https://github.com/pranavbajaj/2D-Image-Feature-Tracking.git
